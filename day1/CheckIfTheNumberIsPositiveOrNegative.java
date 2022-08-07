@@ -26,7 +26,7 @@ public class CheckIfTheNumberIsPositiveOrNegative {
 		{
 			System.out.println("The given number" + number + " is Negative");
 		} else {
-			System.out.println("The given number is zero");
+			System.out.println("The number is neither positive nor negative");
 		}
 
 	}
